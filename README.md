@@ -24,7 +24,7 @@ Edit
 ## 🛠 Structure du projet
 
 /src
-├── Product.java # Classe représentant un produit
+├── Product.java # Classe représentant un produit<br>
 └── Main.java # Logique principale + menu console
 
 yaml
@@ -44,8 +44,8 @@ Edit
 
 1. **Téléchargez** ou clonez le projet :
    ```bash
-   git clone https://github.com/youssef-baaziz/gestion-stock-java.git
-   cd gestion-stock-java/src
+   git clone https://github.com/youssef-baaziz/app-gestion-stock-java.git
+   cd app-gestion-stock-java/src
 Compilez les fichiers :
 
 bash
